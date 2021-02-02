@@ -12,3 +12,11 @@ This type of programming is called batch file programming.
 IMPORTANT NOTICE:
 
 This is a BETA, please use at your own risk.
+
+Updates:
+
+I am going to start publishing both batchfile and python code.
+
+I am also going to start using Bitbucket so that I can publish my code in more places.
+
+Please consider following me if you are interesting in the code that I publish.
